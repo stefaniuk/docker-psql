@@ -3,7 +3,7 @@
 Docker Psql
 ===========
 
-Docker wrapper around Psql.
+Docker wrapper around `psql` command.
 
 Installation
 ------------
